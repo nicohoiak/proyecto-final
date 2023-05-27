@@ -1,0 +1,73 @@
+@import "partials/mediaqueries";
+@import "partials/variables";
+@import "partials/reset";
+@import "partials/header";
+@import "partials/footer";
+@import "partials/main";
+@import "partials/galeria";
+
+
+.button-contact{
+    color: white;
+    background-color: $color-celesteoscuro;
+}
+
+
+
+/* @media screen and (max-width: 425px) {
+
+
+    nav ul{
+        display: none;
+    }
+
+    h.logo{
+        align-items: center;
+    }
+
+    .contenido-inicio{
+        display: flex;
+        flex-direction: column;
+        font-size: 10px;
+    }
+
+    .contenido img {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    footer p {
+        display: none;
+    }
+    
+    footer iframe{
+        display: none;
+    }
+} */
+
+/* @media only screen and (max-width: 425px)  */
+
+    /* Estilos para pantallas con 425px de ancho o menos */
+/*     .logo img {
+        width: 100%;
+        height: auto;
+    }
+
+    .logo h1 {
+        font-size: 24px;
+    }
+
+    nav {
+        display: none;
+    }
+
+    nav ul {
+        display: block;
+        text-align: center;
+    }
+
+    nav li {
+        display: inline-block;
+        margin: 10px;
+    }
+} */
